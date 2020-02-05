@@ -3,22 +3,7 @@
 ## 1. Python
 - hello.py
 
-'''
-print("Hello")
-'''
+> 곧 터질 파일입니다.
+> 깃을 터뜨리는 방법
 
-- lotto.py
-
-'''
-import random
-
-numbers = range(1,46)
-
-lotto = numbers.sample(numbers, 6)
-'''
-
-- dinner.py
-
-'''print(random.choice(["탕수육","떡볶이"]))
-'''
-
+# Do not try this at home

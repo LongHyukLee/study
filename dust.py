@@ -15,4 +15,4 @@ elif dust <80 :
 elif dust <150 :
       print("나쁨")
 else :
-      print("매우나쁨")
+      print("숨 못쉼")
